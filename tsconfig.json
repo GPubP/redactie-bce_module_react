@@ -1,11 +1,8 @@
 {
 	"compilerOptions": {
+		"experimentalDecorators": true,
 		"target": "es5",
-		"lib": [
-			"dom",
-			"dom.iterable",
-			"esnext"
-		],
+		"lib": ["dom", "dom.iterable", "esnext"],
 		"sourceMap": true,
 		"skipLibCheck": true,
 		"esModuleInterop": true,
@@ -19,7 +16,6 @@
 		"jsx": "react",
 		"outDir": "dist"
 	},
-	"include": [
-		"public"
-	]
+	"include": ["public"],
+	"exclude": ["node_modules"]
 }

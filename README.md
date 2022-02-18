@@ -1,10 +1,8 @@
-# Redactie boilerplate module (React)
+# Redactie bce module (React)
 
 ## How to start?
 
-### Init repository
-
-Copy this repository and replace references to "redactie-boilerplate" in package.json
+TODO: once its live and added as a module, replace the name in package.json to @redactie/bce-module
 
 ### Install all dependencies
 
